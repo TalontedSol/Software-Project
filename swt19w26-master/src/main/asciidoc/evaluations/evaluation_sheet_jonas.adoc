@@ -1,0 +1,39 @@
+= Persönliches Feedback eines Teammitgliedes des Softwarepraktikums 2019/20
+// Auch wenn der Bogen nicht anonymisiert ist, dürfen Sie gern Ihre Meinung offen kundtun.
+// Sowohl positive als auch negative Anmerkungen werden gern gesehen und zur stetigen Verbesserung genutzt.
+// Versuchen Sie in dieser Auswertung also stets sowohl Positives wie auch Negatives zu erwähnen.
+
+**Von:** Jonas Hönisch
+
+**Gruppe:** 26
+
+== Was habe ich gelernt?
+// Ausführung der positiven und negativen Erfahrungen, die im Softwarepraktikum gesammelt wurden
+* Praxisanwendung von UML
+* Scrum-Methode
+* Umgang mit git verbessert
+* Einarbeitung in Frameworks
+* Schreiben von ordentlichen Tests
+* Dokumentationen schreiben
+
+== Welche Erfahrungen habe ich mit der Zusammenarbeit im Team gemacht?
+// Kurze Beschreibung der Zusammenarbeit im Team. Was lief gut? Was war verbesserungswürdig? Was würden Sie das nächste Mal anders machen?
+Im Team zu arbeiten wahr durch die anderen Teammitglieder sehr einfach, da es immer einen Ansprechpartner gab der einem helfen konnte und es nie zu größeren Meinungsverschiedenheiten kam.
+
+== Welche Erfahrungen habe ich bei der Wiederverwendung von Bibliotheken/Frameworks (insbesondere SalesPoint) gemacht?
+// Einschätzung der Arbeit mit den bereitgestellten und zusätzlich genutzten Frameworks. Was War gut? Was war verbesserungswürdig?
+* Klassen die von SalesPoint bereit gestellt werden waren größtenteils hilfreich, manchmal haben sie einfache Aufgaben aber komplizierter gemacht: z.B. Quantity anstatt eines int Werts
+* alles in allem haben Spring und SalesPoint aber sehr viele Aufgaben vereinfacht
+
+== Welche Vorschläge zur weiteren Verbesserung des Softwarepraktikums gibt es?
+// Möglichst mit Beschreibung, warum die Umsetzung des von Ihnen angebrachten Vorschlages nötig ist.
+* Entwicklerdokumentation weiter nach hinten schieben, man kann das Projekt am Anfang schlecht einschätzen
+* SalesPoint Dokumentation verbessern
+
+== Feedback für den Tutor
+// Fühlten Sie sich durch den vom Lehrstuhl bereitgestellten Tutor gut betreut? Was war positiv? Was war verbesserungswürdig?
+Unser Tutor hat uns soweit es ihm möglich war immer Hilfestellungen gegeben falls wir für ein Problem keine Lösung gefunden haben und der Umgang mit ihm war sehr locker. Wir hatten auf jeden Fall Glück Tom zugewiesen bekommen zu haben.
+
+== Sonstiges und Anmerkungen
+// Welche Aspekte fanden in den oben genannten Punkten keine Erwähnung?
+-
